@@ -17,4 +17,7 @@ MacPCでもWindowsでもダウンロードできるので、便利です。
 
 2台持ちでやることなんかも、PCあればできちゃいます！！
 
+PCの性能によっては大体の場合、スマホより動作早いです。PUBGをすることもお勧めされていますよ。
+
+
 [前](https://github.com/175B005/weekreport5) | [次](https://github.com/175B005/weekreport7)
