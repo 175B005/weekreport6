@@ -1,8 +1,6 @@
 # *NoxPlater*
-
-ちょっと脱線して、ゲームをする方にｗｗ、、ネ、ネタが。。。
 　
- [![](https://raw.githubusercontent.com/175B005/direction_rink/master/noximage1.png)](https://jp.bignox.com/)
+ [![](https://raw.githubusercontent.com/175B005/direction_rink/master/noximage1.png)](https://jp.bignox.com/)ちょっと脱線して、ゲームをする方にｗｗ、、ネ、ネタが。。。
  
 [*NoxPlater*](https://jp.bignox.com/)　はAndroid用のゲームをGooglePlayStoreでダウンロードし、PC上で動作させます。
 
