@@ -4,6 +4,8 @@
  
 [*NoxPlater*](https://jp.bignox.com/)　はAndroid用のゲームをGooglePlayStoreでダウンロードし、PC上で動作させます。
 
+![](https://raw.githubusercontent.com/175B005/direction_rink/master/noximage2.jpg)![](https://raw.githubusercontent.com/175B005/direction_rink/master/noximage3.jpg)
+
 他のツールで結構実況などしている人もいるのですが、これの特徴は、
 
 MacPCでもWindowsでもダウンロードできるので、便利です。
@@ -14,7 +16,13 @@ MacPCでもWindowsでもダウンロードできるので、便利です。
 
 PCの性能によっては大体の場合、スマホより動作早いです。PUBGをすることもお勧めされていますよ。
 
+そして、なんといっても、PCでやるからにはマウス？と思うかと、、、、でも！
 
+これはキーを細かく設定できるのです。⇒![](https://raw.githubusercontent.com/175B005/direction_rink/master/noximage7.jpg)
+
+試しに「Aキー」![](https://raw.githubusercontent.com/175B005/direction_rink/master/noximage5.jpg)
+
+---
 
 **他にも、私が使いたいのはここからでして、
 
@@ -22,13 +30,25 @@ PCの性能によっては大体の場合、スマホより動作早いです。
 
 **ファイル渡しはドラッグ＆ドロップでらくらく。
 
+![](https://raw.githubusercontent.com/175B005/direction_rink/master/noximage15.jpg)![](https://raw.githubusercontent.com/175B005/direction_rink/master/noximage16.jpg)
+
 **iphoneの人もお任せあれ。Android開発したものをＰＣですぐ動作確認できます。
 
 **機能で、タブレット用。スマホ用。画面サイズ。解像度をそれぞれ調整。
 
+![](https://raw.githubusercontent.com/175B005/direction_rink/master/noximage13.jpg)![](https://raw.githubusercontent.com/175B005/direction_rink/master/noximage14.jpg)![](https://raw.githubusercontent.com/175B005/direction_rink/master/noximage11.jpg)![](https://raw.githubusercontent.com/175B005/direction_rink/master/noximage12.jpg)
+
 **操作もらくらくでいいです。。ただ、設定変えると再起動しないと反映できないので、
 
 **その間他の作業をやっていましょう。
+
+**apkファイル,その他ファイルを渡せて、nox側からpcにアクセスも可能。逆もしかり。
+
+![](https://raw.githubusercontent.com/175B005/direction_rink/master/noximage17.jpg)
+
+**ファイルの場所は、PC上で初期設定になっていると、windows < 自分のユーザーフォルダ < NoxShare に入っています。
+
+---
 
 
 [前](https://github.com/175B005/weekreport5) | [次](https://github.com/175B005/weekreport7)
